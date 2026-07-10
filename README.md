@@ -90,32 +90,3 @@ This is the **actual console output** from running the notebook top to bottom �
 ```
 
 Your site goes live at:
-
-```
-https://priyanraj-hub.github.io/rithackathon/
-```
-
-> **If the Pages option is missing:** commit the files first — GitHub Pages can't publish an empty repository.
-
-<br>
-
-## 🧪 Data integrity
-
-| Metric | Clean channel | At 50% noise |
-|---|---|---|
-| CHSH value (S) | 2.8545 | 0.4170 |
-| Concurrence | 1.0000 | 0.1466 |
-| Quantum detection error | 0.3918 (5% clutter) | 0.4852 (90% clutter) |
-| Classical detection error | 0.4656 (5% clutter) | 0.4649 (90% clutter) |
-
-Every chart in `script.js` embeds these exact arrays, exported directly from `qt16_results.npz` after a real execution of `qt16_simulation.py`. Random seed fixed at `42` — anyone can re-run the script and reproduce these values exactly.
-
-<br>
-
-<div align="center">
-
-**QT‑1.6 · Entanglement Lab**
-RIT Quant‑A‑Thon 2026 · Built with Qiskit + Qiskit Aer
-
-</div>
-
