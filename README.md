@@ -1,2 +1,0 @@
-# rithackathon
-webiste + storage 
