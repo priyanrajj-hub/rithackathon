@@ -118,3 +118,4 @@ Every chart in `script.js` embeds these exact arrays, exported directly from `qt
 RIT Quant‑A‑Thon 2026 · Built with Qiskit + Qiskit Aer
 
 </div>
+
